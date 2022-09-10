@@ -1,1 +1,1 @@
-## sample fullstack dapp using Solidity and React
+## Sample Voting Dapps using Solidity and React.
