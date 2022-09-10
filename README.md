@@ -1,1 +1,1 @@
-## Sample Voting Dapps using Solidity and React.
+## Sample Voting Dapp using Solidity and React.
